@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../app"
+		},
+		{
+			"path": "../attached_assets"
+		},
+		{
+			"path": "../components"
+		},
+		{
+			"path": "../hooks"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../public"
+		}
+	]
+}
